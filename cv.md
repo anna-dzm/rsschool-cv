@@ -8,17 +8,17 @@
 
 #### **Phone number:** +375298093877 (Telegram, Viber)
 
-#### **E-mail:** hannadzmitruk@gmail.com
+#### **E-mail:** [hannadzmitruk@gmail.com](hannadzmitruk@gmail.com)
 
-#### **Instagram:** https://www.instagram.com/hanna_dzmitruk/
+#### **Instagram:** [https://www.instagram.com/hanna_dzmitruk/](https://www.instagram.com/hanna_dzmitruk/)
 
-#### **GitHub:** https://github.com/anna-dzm
+#### **GitHub:** [https://github.com/anna-dzm](https://github.com/anna-dzm)
 
 ## **ABOUT ME:**
 
 I am a second-year student of International Business at [The Poznan University of Economics and Business](https://ue.poznan.pl/en/)
 
-#### My goal is to become a frontend-developer.
+#### My goal is to become a front-end developer.
 
 #### **My strengths:**
 
@@ -49,3 +49,6 @@ I am a second-year student of International Business at [The Poznan University o
    }
    alert("Наибольшее число: " + max)
 ```
+## **LANGUAGES:**
+- English (B2)
+- Polish (C1)
