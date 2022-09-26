@@ -20,18 +20,18 @@ My goal is to become a front-end developer.
 - Git/Github
 
 ## EDUCATION:
-1. **Poznan University of Economics And Business**
+**1. Poznan University of Economics And Business**\
     Poznan, Poland\
     2019 - 2022\
     Bachelor's degree in International Business\
     Title of the thesis: Green IT solutions in business on the example of SAP and EPAM Systems companies
 
-2. **Avans University of Applied Science**
+**2. Avans University of Applied Science**\
     's-Hertogenbosch, the Netherlands\
     Sep 2021 - Jan 2022\
     Erasmus + exchange program, minor Innovation & Creativity
 
-3. **DAAD German Academic Exchange**
+**3. DAAD German Academic Exchange**\
     Nov 2020 - Dec 2020\
     Digital4Social online school
 
